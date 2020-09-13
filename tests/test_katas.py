@@ -2,6 +2,9 @@ import unittest
 import katas
 
 
+author = "Leann James"
+
+
 class TestKatas(unittest.TestCase):
     def test_add(self):
         self.fail("TODO: Write add unit test")
